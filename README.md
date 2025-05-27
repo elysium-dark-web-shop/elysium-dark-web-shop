@@ -1,4 +1,3 @@
-```markdown
 # Elysium Dark Web Shop: Secure Anonymous Marketplace (2025)
 
 Discover the **Elysium dark web shop**, the most trusted underground marketplace for private transactions. This guide provides verified access methods, security protocols, and key features of this exclusive darknet platform.

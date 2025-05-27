@@ -21,8 +21,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 ## 🔍 Finding Genuine Elysium Shop Links
 
 ### Verified Sources:
-- Darknet Trust Lists (/d/elysium_verified)
-- PGP-Signed Updates from @ElysiumNews@
 - Mirror Network: http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 ## 🛡️ Access Security Protocol

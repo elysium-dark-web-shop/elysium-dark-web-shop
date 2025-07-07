@@ -75,4 +75,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 
 
-Update:  04 July 2025
+
+
+Update:  07/07/2025 url is now reachable online

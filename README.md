@@ -79,4 +79,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 
 
-Update:  07/14/2025
+
+
+Update:  18 July Corrected broken reference links in README

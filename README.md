@@ -85,4 +85,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 
 
-Update:  Thursday 24 July 2025 Updated external references to current URLs
+
+
+Update:  04.08.2025 url is now operational and clickable

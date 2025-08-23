@@ -91,4 +91,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 
 
-Update:  19.08.2025 The link is now available and working perfectly.
+
+
+Update:  23 August Updated API documentation references

@@ -97,4 +97,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 
 
-Update:  Friday 12 September 2025 Fixed broken url, now live
+
+
+Update:  18 September Internal navigation
